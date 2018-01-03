@@ -1,0 +1,21 @@
+{
+  "name": "pong",
+  "description": "this is pong",
+  "main": "index.js",
+  "authors": [
+    "colin"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "test"
+  ],
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
